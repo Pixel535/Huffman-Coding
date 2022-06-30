@@ -1,0 +1,7 @@
+#3: 4      Left Child: #1      Right Child: #2      Parent: none 
+#2: 2      Left Child: 99      Right Child: 100      Parent: #3 
+#1: 2      Left Child: 97      Right Child: 98      Parent: #3 
+100: 1      Left Child: none      Right Child: none      Parent: #2 
+99: 1      Left Child: none      Right Child: none      Parent: #2 
+98: 1      Left Child: none      Right Child: none      Parent: #1 
+97: 1      Left Child: none      Right Child: none      Parent: #1 
